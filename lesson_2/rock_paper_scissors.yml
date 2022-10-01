@@ -1,0 +1,31 @@
+you_won: "You won!"
+computer_won: "Computer won :("
+tie: "It's a tie!"
+not_valid: "That's not a valid choice."
+play_again: "Do you want to play again?"
+thank_you: "Thank you for playing. See you next time!"
+game_rules: |
+  HOW TO PLAY:
+  *********************
+  Face off against the computer by 
+  choosing from 1 of 5 options: 
+  Rock, Paper, Scissors, Lizard, Spock
+  
+  First one to win three games is the champion!
+  
+  GAME RULES:
+  *********************
+  Rock crushes Scissors + Lizard
+  Paper covers Rock + Spock
+  Scissors cuts Paper + Lizard
+  Lizard poisons Spock + eats Paper
+  Spock smashes Scissors + Rock
+  **********************
+pick_one: |
+  CHOOSE ONE:
+  Rock(R), Paper(P), Scissors(Sc), Lizard(L), Spock(Sp)
+shoot: "1, 2, 3, Shoot!"
+grand_winner: "Congratulations you defeated the computer!"
+grand_loser: "The computer has won the game. Better luck next time."
+  
+  
