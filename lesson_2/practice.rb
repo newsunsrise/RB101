@@ -1,5 +1,10 @@
-num = 12
+a = [1, 2, 3]
 
-if num >= 8 && num < 6 || num > 4 && num < 16
-  puts 'Hello'
+# Example of a method definition that mutates its argument permanently
+def mutate(array)
+  array.pop
 end
+
+p "Before mutate method: #{a}"
+mutate(a)
+p "After mutate method: #{a}"
